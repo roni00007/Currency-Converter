@@ -1,2 +1,2 @@
 # Currency-Converter
-I developed this basic Currency Converter using HTML,CSS, Javascript 
+I developed this basic Currency Converter website using HTML,CSS, Javascript 
